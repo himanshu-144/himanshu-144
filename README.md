@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gachake👦</h1>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Reactjs ,C++ etc**
+- 💬 Ask me about **HTML, CSS, JavaScript, Reactjs etc**
 
 - 📫 How to reach me **himanshu144g@gmail.com**
 
